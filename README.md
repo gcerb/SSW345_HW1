@@ -3,7 +3,7 @@ Repository for SSW 345 HW 1 Modeling and Simulation. Fall 2024. 9/12/2024.
 ## Summary of HW Assignment
 
 1. **Set Up LaTeX with Overleaf**:
-   - Create a "Homework manual" with a chapter about yourself and include two .EPS figures.
+   - Create a "Homework manual" with a chapter about yourself called "Team" and include two .EPS figures.
 
 2. **Add a "Git Homework" Chapter**:
    - Respond to tasks from Parts II and III in this chapter.
